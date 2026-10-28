@@ -83,38 +83,9 @@ Checkpoint3_Formulario_Dinamico/
         └── validation.ts
 ```
 
-## Prints da aplicação
-
-Depois de executar o app, adicione capturas de tela reais nesta seção antes de entregar o repositório. Sugestão: inclua uma imagem do formulário, uma com erros de validação e outra mostrando o resultado salvo.
-
-Exemplo de Markdown para imagens dentro do repositório:
-
-```md
-![Formulário preenchido](./screenshots/formulario.png)
-![Validação](./screenshots/validacao.png)
-![Resultado salvo](./screenshots/resultado.png)
-```
-
-Crie a pasta `screenshots/` e coloque nela as imagens capturadas do aplicativo. Não deixe imagens de exemplo que não correspondam à execução real.
-
 ## Integrantes
 
-> **Preencha antes da entrega.** O enunciado exige nome completo e RM de cada integrante.
 
-- NOME COMPLETO — RM XXXXX
-- NOME COMPLETO — RM XXXXX
+- Matheus Ikeda — RM559483
+- Davis Junior — RM560723
 
-## Publicar no GitHub
-
-Crie um repositório no GitHub, adicione os arquivos deste projeto e envie os commits. Exemplo:
-
-```bash
-git init
-git add .
-git commit -m "Checkpoint 3 - formulário dinâmico"
-git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-git push -u origin main
-```
-
-Substitua a URL pelo endereço real do seu repositório. A entrega solicitada pelo enunciado é o link do repositório GitHub; o arquivo ZIP serve apenas para transferir o código para sua máquina.
