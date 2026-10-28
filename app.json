@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Checkpoint 3 - Formulário Dinâmico",
+    "slug": "checkpoint3-formulario-dinamico",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "platforms": ["ios", "android", "web"]
+  }
+}
